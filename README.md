@@ -1,4 +1,4 @@
-### Hi 👋 My name is Hiram 👨‍💻🚀
+### Hi 👋 My name is Hiram Moises Lugo 👨‍💻🚀
 ==============================
 
 I'm a Full Stack React JS Developer ⚛️
