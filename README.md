@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**GearHiram1397/GearHiram1397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi 👋 My name is Hiram 👨‍💻🚀
+### Hi 👋 My name is Hiram 👨‍💻🚀
 ==============================
 
 I'm a Full Stack React JS Developer ⚛️
