@@ -7,7 +7,7 @@ I'm a Full Stack React JS Developer ⚛️
 🚀 Aspiring Full-Stack React Developer looking to advance programming and database development skills. I am a dedicated problem-solver, who thrives working on developing creative solutions in a team-based environment. Coding is my passion as well as learning new skills and being able to teach my knowledge to aspiring developers. I love being challenged with difficult problems and am excited to take on every challenge thrown at me. I'm willing to take on any challenge and I promise you that I'll come up with a solution, no matter what the obstacles are.
 
 * 🌍  I'm based in Mayaguez, Puerto Rico 🇵🇷
-* 🖥️  See my portfolio at [The Atomic Programmer](http://theatomicprogrammer.com)
+* 🖥️  See my portfolio at [The Atomic Programmer](http://theatomicprogrammer.com/portfolio/gearhiram1397)
 * ✉️  You can contact me at [hiram1397@gmail.com](mailto:hiram1397@gmail.com)
 * 🚀  I'm currently working on [My Working Space](https://my-working-space-1hkdxbda7-gearhiram1397.vercel.app/dashboard)
 * 🧠  I'm learning TypeScript, Web3, Blockchain Development, Solidity
