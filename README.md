@@ -1,18 +1,18 @@
 ### Hi 👋 My name is Hiram 👨‍💻 🚀
 ==============================
 
-I'm a Full Stack React JS Developer ⚛️
+I'm a Full Stack Software Engineer ⚛️
 --------------------------------------
 
-🚀 Aspiring Full-Stack React Developer looking to advance programming and database development skills. I am a dedicated problem-solver, who thrives working on developing creative solutions in a team-based environment. Coding is my passion as well as learning new skills and being able to teach my knowledge to aspiring developers. I love being challenged with difficult problems and am excited to take on every challenge thrown at me. I'm willing to take on any challenge and I promise you that I'll come up with a solution, no matter what the obstacles are.
+🚀 As a dedicated Full-Stack Software Engineer and co-founder of a startup, I am eager to bring my skills and entrepreneurial mindset to contribute meaningfully to the software development industry. My technical proficiency and problem-solving abilities, combined with a genuine passion for coding, position me as someone who can add value to any organization. I thrive in dynamic, challenging environments and pride myself on being proactive and adaptable. My commitment to delivering high-quality results is deeply ingrained, whether it's tackling complex coding projects or collaborating effectively within cross-functional teams. I am motivated by a desire to excel and make a positive impact through technology.
 
-* 🌍  I'm based in Mayaguez, Puerto Rico 🇵🇷
+* 🌍  I'm based in Austin, Texas 🇵🇷
 * 🖥️  See my portfolio at [The Atomic Programmer](http://theatomicprogrammer.com/portfolio/gearhiram1397)
 * ✉️  You can contact me at [hiram1397@gmail.com](mailto:hiram1397@gmail.com)
 * 🚀  I'm currently working on [My Working Space](https://my-working-space-1hkdxbda7-gearhiram1397.vercel.app/dashboard)
 * 🧠  I'm learning TypeScript, Web3, Blockchain Development, Solidity
-* 🤝  I'm open to collaborating on anything that helps me add or improve my skills and helps me advance on my carrier as a developer.
-* ⚡  I'm eager to work on teams, learn new skills and teach my skills to others
+* 🤝  I'm open to collaborating on anything that helps me add or improve my skills and helps me advance in my career as a developer.
+* ⚡  I'm eager to work on teams, learn new skills, and teach my skills to others
 
 <a href="https://www.twitter.com/HiramMoisesLugo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/HiramMoisesLugo?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
@@ -25,17 +25,21 @@ src="https://img.shields.io/github/followers/GearHiram1397?logo=github&style=for
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://php.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://nodejs.org/en/](https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="csharp" /></a>
+<a href="https://python.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://aws.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Aws" /></a>
+<a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 </p>
 
 
