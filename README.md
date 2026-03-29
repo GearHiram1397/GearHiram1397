@@ -1,29 +1,33 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3382ed&height=200&section=header&text=Hiram%20Lugo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Startup%20Co-Founder&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:7c3aed&height=220&section=header&text=Hiram%20Lugo&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚛️%20The%20Atomic%20Programmer%20%7C%20Full%20Stack%20Engineer%20%7C%20Startup%20Co-Founder&descAlignY=58&descAlign=50&descSize=16" width="100%" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3382ED&center=true&vCenter=true&width=620&lines=Full+Stack+Software+Engineer+%E2%9A%9B%EF%B8%8F;Startup+Co-Founder+%F0%9F%9A%80;Web3+%26+Blockchain+Explorer+%F0%9F%94%97;Open+Source+Collaborator+%F0%9F%A4%9D;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=680&lines=Full+Stack+Software+Engineer+%E2%9A%9B%EF%B8%8F;Startup+Co-Founder+%F0%9F%9A%80;Web3+%26+Blockchain+Explorer+%F0%9F%94%97;The+Atomic+Programmer+%E2%9A%9B%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=GearHiram1397&color=3382ed&style=for-the-badge&label=PROFILE+VIEWS)
-[![Twitter Follow](https://img.shields.io/twitter/follow/HiramMoisesLugo?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000)](https://www.twitter.com/HiramMoisesLugo)
-[![GitHub Followers](https://img.shields.io/github/followers/GearHiram1397?logo=github&style=for-the-badge&color=3382ed&labelColor=000000)](https://www.github.com/GearHiram1397)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=GearHiram1397&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+[![Twitter Follow](https://img.shields.io/twitter/follow/HiramMoisesLugo?logo=twitter&style=for-the-badge&color=60a5fa&labelColor=0d1117)](https://www.twitter.com/HiramMoisesLugo)
+[![GitHub Followers](https://img.shields.io/github/followers/GearHiram1397?logo=github&style=for-the-badge&color=a78bfa&labelColor=0d1117)](https://www.github.com/GearHiram1397)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=3" width="100%" />
 
 ---
 
 ## 👨‍💻 About Me
 
-> *Dedicated Full-Stack Software Engineer and startup co-founder based in Austin, Texas — building things that matter with code, caffeine, and curiosity.*
+> *Full-Stack Engineer and co-founder of* ***[The Atomic Programmer](http://theatomicprogrammer.com)*** — *a platform built on the belief that the future of learning is atomic: small, powerful, and unstoppable. Based in Austin, Texas. Building with code, curiosity, and caffeine.*
 
 | | |
 |:--|:--|
 | 🌍 **Location** | Austin, Texas 🇵🇷 |
-| 🖥️ **Portfolio** | [theatomicprogrammer.com](http://theatomicprogrammer.com/portfolio/gearhiram1397) |
+| ⚛️ **Brand** | [The Atomic Programmer](http://theatomicprogrammer.com/portfolio/gearhiram1397) |
 | 🚀 **Current Project** | [The One Gig](https://onegighq.com/) |
 | 🧠 **Learning** | TypeScript · Web3 · Blockchain · Solidity |
 | ✉️ **Contact** | [hiram1397@gmail.com](mailto:hiram1397@gmail.com) |
-| 🤝 **Open To** | Collaborations that grow my skills and advance my career |
+| 🤝 **Open To** | Collaborations that level up my skills and advance my career |
 
 ---
 
@@ -89,20 +93,13 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=GearHiram1397&show_icons=true&hide=issues&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" alt="GearHiram1397's GitHub stats" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GearHiram1397&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=GearHiram1397&show_icons=true&hide=issues&title_color=60a5fa&text_color=c9d1d9&icon_color=a78bfa&bg_color=0d1117&hide_border=true&border_radius=10" alt="GearHiram1397's GitHub stats" />
 
-<img src="https://streak-stats.demolab.com/?user=GearHiram1397&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=GearHiram1397&stroke=c9d1d9&background=0d1117&ring=60a5fa&fire=7c3aed&currStreakNum=ffffff&currStreakLabel=60a5fa&sideNums=c9d1d9&sideLabels=a78bfa&dates=8b949e&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GearHiram1397&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GearHiram1397&langs_count=10&title_color=60a5fa&text_color=c9d1d9&icon_color=a78bfa&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact&border_radius=10" alt="Top Languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GearHiram1397&bg_color=0d1117&color=c9d1d9&line=60a5fa&point=a78bfa&area_color=0d1117&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
 
@@ -112,7 +109,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GearHiram1397&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GearHiram1397&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -132,10 +129,10 @@
 
 ---
 
-## ☕ Support My Work
+## ☕ Support The Mission
 
-If you find my projects helpful or inspiring, consider buying me a coffee!
+*Enjoying my content or projects? Help fuel the next atomic build!*
 
 <a href="https://www.buymeacoffee.com/hiram1397n"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3382ed&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:3b82f6&height=120&section=footer" width="100%" />
