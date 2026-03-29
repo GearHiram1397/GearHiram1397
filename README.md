@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:7c3aed&height=220&section=header&text=Hiram%20Lugo&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚛️%20The%20Atomic%20Programmer%20%7C%20Full%20Stack%20Engineer%20%7C%20Startup%20Co-Founder&descAlignY=58&descAlign=50&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:7c3aed&height=220&section=header&text=Hiram%20Lugo&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚛️%20The%20Atomic%20Programmer%20%7C%20Full%20Stack%20Engineer%20%7C%20Founder&descAlignY=58&descAlign=50&descSize=16" width="100%" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=680&lines=Full+Stack+Software+Engineer+%E2%9A%9B%EF%B8%8F;Startup+Co-Founder+%F0%9F%9A%80;Web3+%26+Blockchain+Explorer+%F0%9F%94%97;The+Atomic+Programmer+%E2%9A%9B%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=720&lines=Full+Stack+Software+Engineer+%E2%9A%9B%EF%B8%8F;Founder+of+The+Atomic+Programmer+%F0%9F%9A%80;Web3+%26+Blockchain+Explorer+%F0%9F%94%97;AI+%26+Emerging+Tech+Enthusiast+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,22 +12,48 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=3" width="100%" />
-
 ---
 
 ## 👨‍💻 About Me
 
-> *Full-Stack Engineer and co-founder of* ***[The Atomic Programmer](http://theatomicprogrammer.com)*** — *a platform built on the belief that the future of learning is atomic: small, powerful, and unstoppable. Based in Austin, Texas. Building with code, curiosity, and caffeine.*
+> *Full-Stack Engineer and founder of* ***[The Atomic Programmer](http://theatomicprogrammer.com)*** *— a platform built on the belief that the future of learning is atomic: small, powerful, and unstoppable. Based in Austin, Texas. Building with code, curiosity, and caffeine.*
 
 | | |
 |:--|:--|
-| 🌍 **Location** | Austin, Texas 🇵🇷 |
+| 🤠 **Location** | Austin, Texas |
 | ⚛️ **Brand** | [The Atomic Programmer](http://theatomicprogrammer.com/portfolio/gearhiram1397) |
 | 🚀 **Current Project** | [The One Gig](https://onegighq.com/) |
-| 🧠 **Learning** | TypeScript · Web3 · Blockchain · Solidity |
+| 🧠 **Learning** | TypeScript · Web3 · Blockchain · Solidity · AI/LLMs |
 | ✉️ **Contact** | [hiram1397@gmail.com](mailto:hiram1397@gmail.com) |
 | 🤝 **Open To** | Collaborations that level up my skills and advance my career |
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| [⚛️ The Atomic Programmer](http://theatomicprogrammer.com) | The future of learning — atomic, powerful, unstoppable | React · Next.js · TypeScript |
+| [💼 The One Gig](https://onegighq.com/) | Connecting talent with opportunity in the gig economy | Full Stack |
+
+</div>
+
+---
+
+## 🤖 AI & Emerging Tech
+
+<div align="center">
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-cc785c?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+
+</div>
 
 ---
 
@@ -100,6 +126,20 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GearHiram1397&langs_count=10&title_color=60a5fa&text_color=c9d1d9&icon_color=a78bfa&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact&border_radius=10" alt="Top Languages" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GearHiram1397&bg_color=0d1117&color=c9d1d9&line=60a5fa&point=a78bfa&area_color=0d1117&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GearHiram1397/GearHiram1397/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GearHiram1397/GearHiram1397/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/GearHiram1397/GearHiram1397/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
