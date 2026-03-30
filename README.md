@@ -1,8 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:7c3aed&height=220&section=header&text=Hiram%20Lugo&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚛️%20The%20Atomic%20Programmer%20%7C%20Full%20Stack%20Engineer%20%7C%20Founder&descAlignY=58&descAlign=50&descSize=16" width="100%" />
+<div align="center">
+<img src="./assets/galaxy-header.svg" width="100%" alt="Hiram Lugo — The Atomic Programmer" />
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=720&lines=Full+Stack+Software+Engineer+%E2%9A%9B%EF%B8%8F;Founder+of+The+Atomic+Programmer+%F0%9F%9A%80;Web3+%26+Blockchain+Explorer+%F0%9F%94%97;AI+%26+Emerging+Tech+Enthusiast+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=720&lines=Full+Stack+Software+Engineer+%E2%9A%9B%EF%B8%8F;Founder+of+The+Atomic+Programmer+%F0%9F%9A%80;Web3+%26+Blockchain+Explorer+%F0%9F%94%97;AI+%26+Emerging+Tech+Enthusiast+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,11 +14,11 @@
 
 </div>
 
----
+<img src="./assets/star-divider.svg" width="100%" />
 
-## 👨‍💻 About Me
+## 🪐 About Me
 
-> *Full-Stack Engineer and founder of* ***[The Atomic Programmer](http://theatomicprogrammer.com)*** *— a platform built on the belief that the future of learning is atomic: small, powerful, and unstoppable. Based in Austin, Texas. Building with code, curiosity, and caffeine.*
+> *Full-Stack Engineer and founder of* ***[The Atomic Programmer](http://theatomicprogrammer.com)*** *— a platform built on the belief that the future of learning is atomic: small, powerful, and unstoppable. Currently orbiting Austin, Texas.*
 
 | | |
 |:--|:--|
@@ -27,20 +29,30 @@
 | ✉️ **Contact** | [hiram1397@gmail.com](mailto:hiram1397@gmail.com) |
 | 🤝 **Open To** | Collaborations that level up my skills and advance my career |
 
----
+<img src="./assets/star-divider.svg" width="100%" />
 
-## 🚀 Featured Projects
+## 📡 Currently Transmitting
+
+- 🔭 Building **[The Atomic Programmer](http://theatomicprogrammer.com)** — breaking learning into powerful atomic units
+- 🚀 Developing **[The One Gig](https://onegighq.com/)** — connecting talent with opportunity
+- 🤖 Exploring **Claude API, GPT-4, GitHub Copilot, Cursor AI**
+- 🔗 Studying **Web3, Solidity, smart contracts & decentralized apps**
+- 💡 Shipping with **Next.js 15, TypeScript, Tailwind CSS**
+
+<img src="./assets/star-divider.svg" width="100%" />
+
+## 🚀 Featured Missions
 
 <div align="center">
 
-| Project | Description | Stack |
+| Mission | Description | Stack |
 |:--|:--|:--|
 | [⚛️ The Atomic Programmer](http://theatomicprogrammer.com) | The future of learning — atomic, powerful, unstoppable | React · Next.js · TypeScript |
 | [💼 The One Gig](https://onegighq.com/) | Connecting talent with opportunity in the gig economy | Full Stack |
 
 </div>
 
----
+<img src="./assets/star-divider.svg" width="100%" />
 
 ## 🤖 AI & Emerging Tech
 
@@ -48,16 +60,16 @@
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-cc785c?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-cc785c?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
 </div>
 
----
+<img src="./assets/star-divider.svg" width="100%" />
 
-## 🛠️ Tech Stack
+## 🛸 Tech Arsenal
 
 ### 🎨 Frontend
 <p>
@@ -113,9 +125,9 @@
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" title="Webpack" /></a>
 </p>
 
----
+<img src="./assets/star-divider.svg" width="100%" />
 
-## 📊 GitHub Stats
+## 🌠 GitHub Stats
 
 <div align="center">
 
@@ -129,33 +141,42 @@
 
 </div>
 
----
+<img src="./assets/star-divider.svg" width="100%" />
 
-## 🐍 Contribution Snake
+## 🐍 Galaxy Trail
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GearHiram1397/GearHiram1397/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GearHiram1397/GearHiram1397/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/GearHiram1397/GearHiram1397/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/GearHiram1397/GearHiram1397/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
----
+<img src="./assets/star-divider.svg" width="100%" />
 
-## 🏆 GitHub Trophies
+## 🏆 Hall of Fame
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GearHiram1397&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GearHiram1397&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
----
+<img src="./assets/star-divider.svg" width="100%" />
 
-## 🌐 Connect With Me
+## ⚡ Fun Facts
+
+- 🏖️ Born in Puerto Rico 🇵🇷, coding from Austin, Texas 🤠
+- ⚛️ Named the brand "Atomic" because big breakthroughs start with the smallest, most powerful particles
+- ☕ Runs on coffee, curiosity, and clean code
+- 🤝 Believes in teaching what you learn — the atomic way
+
+<img src="./assets/star-divider.svg" width="100%" />
+
+## 🌌 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/hiram-lugo-rodriguez-34539597/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" title="LinkedIn" /></a>
@@ -167,7 +188,7 @@
 <a href="https://www.facebook.com/hiram.moiseslugo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" title="Facebook" /></a>
 </p>
 
----
+<img src="./assets/star-divider.svg" width="100%" />
 
 ## ☕ Support The Mission
 
@@ -175,4 +196,6 @@
 
 <a href="https://www.buymeacoffee.com/hiram1397n"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" /></a>
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:3b82f6&height=120&section=footer" width="100%" />
+</div>
