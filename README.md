@@ -18,26 +18,66 @@
 
 ## 🪐 About Me
 
-> *Full-Stack Engineer and founder of* ***[The Atomic Programmer](http://theatomicprogrammer.com)*** *— a platform built on the belief that the future of learning is atomic: small, powerful, and unstoppable. Currently orbiting Austin, Texas.*
+> *Full-Stack Software Engineer and founder of* ***[The Atomic Programmer](http://theatomicprogrammer.com)*** *— a platform built on the belief that the future of learning is atomic: small, powerful, and unstoppable. Currently orbiting Pflugerville, Texas.*
 
 | | |
 |:--|:--|
-| 🤠 **Location** | Austin, Texas |
+| 🤠 **Location** | Pflugerville, Texas |
 | ⚛️ **Brand** | [The Atomic Programmer](http://theatomicprogrammer.com/portfolio/gearhiram1397) |
-| 🚀 **Current Project** | [The One Gig](https://onegighq.com/) |
-| 🧠 **Learning** | TypeScript · Web3 · Blockchain · Solidity · AI/LLMs |
+| 🚀 **Current Role** | Software Engineer @ [Nuvems AI](https://nuvems.com) |
+| 🔭 **Side Project** | [The One Gig](https://onegighq.com/) |
+| 🧠 **Learning** | Web3 · Solidity · Blockchain · AI/LLMs |
 | ✉️ **Contact** | [hiram1397@gmail.com](mailto:hiram1397@gmail.com) |
-| 🤝 **Open To** | Collaborations that level up my skills and advance my career |
+| 📞 **Phone** | 787-833-3094 |
 
 <img src="./assets/star-divider.svg" width="100%" />
 
 ## 📡 Currently Transmitting
 
-- 🔭 Building **[The Atomic Programmer](http://theatomicprogrammer.com)** — breaking learning into powerful atomic units
-- 🚀 Developing **[The One Gig](https://onegighq.com/)** — connecting talent with opportunity
-- 🤖 Exploring **Claude API, GPT-4, GitHub Copilot, Cursor AI**
-- 🔗 Studying **Web3, Solidity, smart contracts & decentralized apps**
-- 💡 Shipping with **Next.js 15, TypeScript, Tailwind CSS**
+- 🏥 Building **MiPortalClinico** — HIPAA-compliant healthcare management platform (multi-tenant, monorepo)
+- 🚛 Building **NuvemsFleet** — fleet & equipment management platform with mobile app (Expo → App Store + Google Play)
+- 🤖 Shipping **AI-powered WhatsApp agents** to automate service intake and document workflows
+- ⚛️ Growing **[The Atomic Programmer](http://theatomicprogrammer.com)** — the future of learning
+- 🔗 Exploring **Web3, Solidity, smart contracts & decentralized apps**
+
+<img src="./assets/star-divider.svg" width="100%" />
+
+## 💼 Experience
+
+### 🚀 Software Engineer — Nuvems AI *(2025 – Present)*
+**San Juan, Puerto Rico (Remote)**
+
+- Led development of two multi-tenant monorepo platforms: **MiPortalClinico** (HIPAA-compliant healthcare) and **NuvemsFleet** (fleet & equipment management)
+- Architected **Next.js SSR** apps with TypeScript, backend on **Node.js + Prisma ORM + Azure SQL**, deployed via Docker on Azure
+- Built and shipped a mobile app (Expo) to both **App Store** and **Google Play Store**
+- Integrated **AI-powered WhatsApp agents** for automated service intake, document generation, and operational workflows
+
+---
+
+### 🛠️ Junior Software Engineer — E3 Consulting *(2023 – 2025)*
+**Santurce, Puerto Rico (Hybrid)**
+
+- **Healthcare (MMM):** Automated QIMS report generation using **C# + SSIS**, replacing manual data pipelines
+- **Distribution (B. Fernández & Hnos.):** Built an **RPA bot** with Robocorp (Python) to automate Proof-of-Delivery entry into Oracle ERP
+- **Retail (Pepe Ganga):** Optimized email-processing **RPA bot** in Python to convert POs to JSON and update inventory
+- **Public Sector (Municipality of San Juan):** Designed a custom CMS with an **AI-powered legal document generator** using React, Node.js, Azure, UiPath, Camunda BPM, and Power BI
+
+---
+
+### 🎓 Software Engineer Intern — E3 Consulting *(2022 – 2023)*
+**Santurce, Puerto Rico (Hybrid)**
+
+- Assisted migration of a government licensing platform (SBP) for Puerto Rico's **Dept. of Economic Development and Commerce (DDEC)**
+- Documented bugs, tested fixes, validated workflows, and supported agile QA practices
+
+<img src="./assets/star-divider.svg" width="100%" />
+
+## 🎓 Education
+
+| Degree | Institution | Year |
+|:--|:--|:--|
+| 📜 Professional Certificate in Fullstack Mastery | Clever Programmer Bootcamp | 2021 |
+| 🎓 B.S. Networking Technology & Application Development | NUC University | 2018 |
 
 <img src="./assets/star-divider.svg" width="100%" />
 
@@ -48,6 +88,8 @@
 | Mission | Description | Stack |
 |:--|:--|:--|
 | [⚛️ The Atomic Programmer](http://theatomicprogrammer.com) | The future of learning — atomic, powerful, unstoppable | React · Next.js · TypeScript |
+| [🏥 MiPortalClinico](https://nuvems.com) | HIPAA-compliant healthcare management | Next.js · Prisma · Azure |
+| [🚛 NuvemsFleet](https://nuvems.com) | Fleet & equipment management + mobile app | Expo · Node.js · Azure |
 | [💼 The One Gig](https://onegighq.com/) | Connecting talent with opportunity in the gig economy | Full Stack |
 
 </div>
@@ -58,10 +100,13 @@
 
 <div align="center">
 
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-cc785c?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-6e40c9?style=for-the-badge&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
@@ -79,6 +124,7 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" title="Next.js" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="SASS" title="SASS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap" /></a>
@@ -91,6 +137,7 @@
 ### ⚙️ Backend & Languages
 <p>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" title="Node.js" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express.js" title="Express.js" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" title="Laravel" /></a>
@@ -105,15 +152,32 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase" /></a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" title="Oracle" /></a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" height="36" alt="Redis" title="Redis" /></a>
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Azure" title="Microsoft Azure" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" title="AWS" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker" /></a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terraform-colored.svg" width="36" height="36" alt="Terraform" title="Terraform" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" title="Heroku" /></a>
 </p>
+
+### 🤖 Automation & RPA
+
+<div>
+
+![Robocorp](https://img.shields.io/badge/Robocorp-00B4A0?style=flat-square&logo=robocorp&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
+![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-FF7900?style=flat-square&logoColor=white)
+![Camunda BPM](https://img.shields.io/badge/Camunda_BPM-FC5D0D?style=flat-square&logo=camunda&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+</div>
 
 ### 🧰 Tools & Design
 <p>
@@ -121,8 +185,6 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" title="Sketch" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" title="Babel" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" title="Webpack" /></a>
 </p>
 
 <img src="./assets/star-divider.svg" width="100%" />
@@ -131,11 +193,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GearHiram1397&show_icons=true&hide=issues&title_color=60a5fa&text_color=c9d1d9&icon_color=a78bfa&bg_color=0d1117&hide_border=true&border_radius=10" alt="GearHiram1397's GitHub stats" />
-
 <img src="https://streak-stats.demolab.com/?user=GearHiram1397&stroke=c9d1d9&background=0d1117&ring=60a5fa&fire=7c3aed&currStreakNum=ffffff&currStreakLabel=60a5fa&sideNums=c9d1d9&sideLabels=a78bfa&dates=8b949e&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GearHiram1397&langs_count=10&title_color=60a5fa&text_color=c9d1d9&icon_color=a78bfa&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact&border_radius=10" alt="Top Languages" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GearHiram1397&bg_color=0d1117&color=c9d1d9&line=60a5fa&point=a78bfa&area_color=0d1117&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
@@ -157,20 +215,11 @@
 
 <img src="./assets/star-divider.svg" width="100%" />
 
-## 🏆 Hall of Fame
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=GearHiram1397&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img src="./assets/star-divider.svg" width="100%" />
-
 ## ⚡ Fun Facts
 
-- 🏖️ Born in Puerto Rico 🇵🇷, coding from Austin, Texas 🤠
-- ⚛️ Named the brand "Atomic" because big breakthroughs start with the smallest, most powerful particles
+- 🏖️ Born in Puerto Rico 🇵🇷, coding from Pflugerville, Texas 🤠
+- ⚛️ Named the brand "Atomic" because every big breakthrough starts with the smallest, most powerful particle
+- 🤖 Built AI agents that automate real healthcare and fleet workflows in production
 - ☕ Runs on coffee, curiosity, and clean code
 - 🤝 Believes in teaching what you learn — the atomic way
 
@@ -179,13 +228,27 @@
 ## 🌌 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/hiram-lugo-rodriguez-34539597/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" title="LinkedIn" /></a>
-<a href="https://www.github.com/GearHiram1397" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" title="GitHub" /></a>
-<a href="https://www.twitter.com/HiramMoisesLugo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" title="Twitter / X" /></a>
-<a href="http://www.instagram.com/gearhiram1397/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" title="Instagram" /></a>
-<a href="https://www.dev.to/gearhiram1397" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" title="Dev.to" /></a>
-<a href="http://www.medium.com/@hiram1397" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" title="Medium" /></a>
-<a href="https://www.facebook.com/hiram.moiseslugo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" title="Facebook" /></a>
+<a href="https://www.linkedin.com/in/hiram-lugo-rodriguez-34539597/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.github.com/GearHiram1397" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.twitter.com/HiramMoisesLugo" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Twitter%2FX-1d9bf0?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+</a>
+<a href="http://www.instagram.com/gearhiram1397/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.dev.to/gearhiram1397" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Dev.to-3b49df?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+</a>
+<a href="http://www.medium.com/@hiram1397" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+<a href="https://www.facebook.com/hiram.moiseslugo/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
 </p>
 
 <img src="./assets/star-divider.svg" width="100%" />
@@ -197,5 +260,5 @@
 <a href="https://www.buymeacoffee.com/hiram1397n"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" /></a>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:3b82f6&height=120&section=footer" width="100%" />
+<img src="./assets/galaxy-footer.svg" width="100%" alt="The Atomic Programmer" />
 </div>
