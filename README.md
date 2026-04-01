@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/galaxy-header.svg" width="100%" alt="Hiram Lugo — The Atomic Programmer" />
+<img src="./assets/galaxy-header.svg" width="100%" alt="Hiram M. Lugo — The Atomic Programmer" />
 </div>
 
 <div align="center">
@@ -39,45 +39,6 @@
 - 🤖 Shipping **AI-powered WhatsApp agents** to automate service intake and document workflows
 - ⚛️ Growing **[The Atomic Programmer](http://theatomicprogrammer.com)** — the future of learning
 - 🔗 Exploring **Web3, Solidity, smart contracts & decentralized apps**
-
-<img src="./assets/star-divider.svg" width="100%" />
-
-## 💼 Experience
-
-### 🚀 Software Engineer — Nuvems AI *(2025 – Present)*
-**San Juan, Puerto Rico (Remote)**
-
-- Led development of two multi-tenant monorepo platforms: **MiPortalClinico** (HIPAA-compliant healthcare) and **NuvemsFleet** (fleet & equipment management)
-- Architected **Next.js SSR** apps with TypeScript, backend on **Node.js + Prisma ORM + Azure SQL**, deployed via Docker on Azure
-- Built and shipped a mobile app (Expo) to both **App Store** and **Google Play Store**
-- Integrated **AI-powered WhatsApp agents** for automated service intake, document generation, and operational workflows
-
----
-
-### 🛠️ Junior Software Engineer — E3 Consulting *(2023 – 2025)*
-**Santurce, Puerto Rico (Hybrid)**
-
-- **Healthcare (MMM):** Automated QIMS report generation using **C# + SSIS**, replacing manual data pipelines
-- **Distribution (B. Fernández & Hnos.):** Built an **RPA bot** with Robocorp (Python) to automate Proof-of-Delivery entry into Oracle ERP
-- **Retail (Pepe Ganga):** Optimized email-processing **RPA bot** in Python to convert POs to JSON and update inventory
-- **Public Sector (Municipality of San Juan):** Designed a custom CMS with an **AI-powered legal document generator** using React, Node.js, Azure, UiPath, Camunda BPM, and Power BI
-
----
-
-### 🎓 Software Engineer Intern — E3 Consulting *(2022 – 2023)*
-**Santurce, Puerto Rico (Hybrid)**
-
-- Assisted migration of a government licensing platform (SBP) for Puerto Rico's **Dept. of Economic Development and Commerce (DDEC)**
-- Documented bugs, tested fixes, validated workflows, and supported agile QA practices
-
-<img src="./assets/star-divider.svg" width="100%" />
-
-## 🎓 Education
-
-| Degree | Institution | Year |
-|:--|:--|:--|
-| 📜 Professional Certificate in Fullstack Mastery | Clever Programmer Bootcamp | 2021 |
-| 🎓 B.S. Networking Technology & Application Development | NUC University | 2018 |
 
 <img src="./assets/star-divider.svg" width="100%" />
 
