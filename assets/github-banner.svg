@@ -1,91 +1,121 @@
-<svg width="1584" height="396" viewBox="0 0 1584 396" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Hiram M. Lugo — GitHub Banner</title>
-  <desc id="desc">A blue galactic GitHub profile banner for Hiram M. Lugo and The Atomic Programmer.</desc>
+<svg width="1584" height="720" viewBox="0 0 1584 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">The Atomic Programmer — Future of Learning</title>
+  <desc id="desc">A cinematic blue galactic banner with the Atomic Programmer mascot style and future of learning typography.</desc>
   <defs>
-    <radialGradient id="nebulaA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1180 120) rotate(150) scale(760 330)">
-      <stop stop-color="#00D4FF" stop-opacity="0.55"/>
-      <stop offset="0.45" stop-color="#2563EB" stop-opacity="0.24"/>
+    <radialGradient id="bgGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(520 350) rotate(20) scale(720 430)">
+      <stop stop-color="#0EA5FF" stop-opacity="0.75"/>
+      <stop offset="0.45" stop-color="#2563EB" stop-opacity="0.28"/>
       <stop offset="1" stop-color="#020617" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="nebulaB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(370 300) rotate(-12) scale(620 220)">
-      <stop stop-color="#7C4DFF" stop-opacity="0.28"/>
-      <stop offset="0.55" stop-color="#0EA5E9" stop-opacity="0.16"/>
+    <radialGradient id="rightNebula" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1260 160) rotate(145) scale(780 430)">
+      <stop stop-color="#38BDF8" stop-opacity="0.32"/>
+      <stop offset="0.6" stop-color="#1D4ED8" stop-opacity="0.18"/>
       <stop offset="1" stop-color="#020617" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="titleGrad" x1="704" y1="145" x2="1336" y2="206" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFFFFF"/>
-      <stop offset="0.52" stop-color="#A7F3FF"/>
+    <radialGradient id="purpleAccent" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 380) rotate(-20) scale(420 310)">
+      <stop stop-color="#7C4DFF" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="learningGrad" x1="840" y1="414" x2="1370" y2="414" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEBFF"/>
+      <stop offset="0.55" stop-color="#22D3EE"/>
       <stop offset="1" stop-color="#60A5FA"/>
     </linearGradient>
-    <linearGradient id="atomGrad" x1="127" y1="99" x2="326" y2="298" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#00D4FF"/>
-      <stop offset="0.55" stop-color="#3B82F6"/>
+    <linearGradient id="atomGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#7DD3FC"/>
+      <stop offset="0.5" stop-color="#00D4FF"/>
       <stop offset="1" stop-color="#7C4DFF"/>
     </linearGradient>
-    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="12" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0  0 0 0 0 0.83  0 0 0 0 1  0 0 0 .65 0" result="color"/>
-      <feMerge><feMergeNode in="color"/><feMergeNode in="SourceGraphic"/></feMerge>
+    <filter id="neon" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0  0 0 0 0 .83  0 0 0 0 1  0 0 0 .75 0" result="cyan"/>
+      <feMerge><feMergeNode in="cyan"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000814" flood-opacity="0.65"/>
+    </filter>
+    <filter id="textGlow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
 
-  <rect width="1584" height="396" rx="28" fill="#020617"/>
-  <rect width="1584" height="396" rx="28" fill="url(#nebulaA)"/>
-  <rect width="1584" height="396" rx="28" fill="url(#nebulaB)"/>
-  <path d="M0 309C241 244 424 334 630 291C872 240 999 127 1285 160C1400 173 1502 217 1584 264V396H0V309Z" fill="#06152E" fill-opacity="0.58"/>
-  <path d="M0 342C231 295 421 354 649 323C897 289 1082 239 1323 259C1438 269 1518 297 1584 323V396H0V342Z" fill="#020617" fill-opacity="0.64"/>
+  <rect width="1584" height="720" fill="#020617"/>
+  <rect width="1584" height="720" fill="url(#bgGlow)"/>
+  <rect width="1584" height="720" fill="url(#rightNebula)"/>
+  <rect width="1584" height="720" fill="url(#purpleAccent)"/>
 
-  <g opacity="0.8">
-    <circle cx="82" cy="64" r="1.6" fill="#CFFAFE"/>
-    <circle cx="168" cy="138" r="1.2" fill="#93C5FD"/>
-    <circle cx="281" cy="58" r="1.5" fill="#FFFFFF"/>
-    <circle cx="476" cy="101" r="1.1" fill="#A5F3FC"/>
-    <circle cx="620" cy="44" r="1.4" fill="#C4B5FD"/>
-    <circle cx="806" cy="74" r="1.2" fill="#FFFFFF"/>
-    <circle cx="957" cy="42" r="1.5" fill="#BAE6FD"/>
-    <circle cx="1134" cy="78" r="1.1" fill="#DBEAFE"/>
-    <circle cx="1280" cy="55" r="1.7" fill="#FFFFFF"/>
-    <circle cx="1452" cy="112" r="1.3" fill="#A5F3FC"/>
-    <circle cx="1522" cy="44" r="1.4" fill="#93C5FD"/>
-    <circle cx="1392" cy="271" r="1.1" fill="#FFFFFF"/>
-    <circle cx="1034" cy="306" r="1.2" fill="#A5F3FC"/>
-    <circle cx="746" cy="312" r="1.4" fill="#FFFFFF"/>
+  <g opacity="0.92">
+    <circle cx="70" cy="70" r="1.7" fill="#E0F2FE"/>
+    <circle cx="170" cy="180" r="1.2" fill="#93C5FD"/>
+    <circle cx="330" cy="95" r="1.6" fill="#FFFFFF"/>
+    <circle cx="590" cy="120" r="1.3" fill="#BAE6FD"/>
+    <circle cx="760" cy="58" r="1.5" fill="#E0F2FE"/>
+    <circle cx="980" cy="108" r="1.5" fill="#FFFFFF"/>
+    <circle cx="1168" cy="62" r="1.1" fill="#93C5FD"/>
+    <circle cx="1380" cy="120" r="1.7" fill="#CFFAFE"/>
+    <circle cx="1510" cy="78" r="1.3" fill="#FFFFFF"/>
+    <circle cx="1360" cy="570" r="1.1" fill="#93C5FD"/>
+    <circle cx="1230" cy="640" r="1.2" fill="#CFFAFE"/>
+    <circle cx="925" cy="615" r="1.4" fill="#FFFFFF"/>
   </g>
 
-  <g transform="translate(106 73)" filter="url(#glow)">
-    <ellipse cx="136" cy="124" rx="117" ry="38" stroke="url(#atomGrad)" stroke-width="7" transform="rotate(-22 136 124)"/>
-    <ellipse cx="136" cy="124" rx="117" ry="38" stroke="url(#atomGrad)" stroke-width="7" transform="rotate(22 136 124)" opacity="0.82"/>
-    <ellipse cx="136" cy="124" rx="117" ry="38" stroke="url(#atomGrad)" stroke-width="7" transform="rotate(90 136 124)" opacity="0.72"/>
-    <circle cx="136" cy="124" r="25" fill="#020617" stroke="#67E8F9" stroke-width="8"/>
-    <circle cx="136" cy="124" r="7" fill="#FFFFFF"/>
+  <path d="M0 600C221 550 431 575 626 548C886 512 1038 468 1320 493C1432 503 1517 528 1584 555V720H0V600Z" fill="#06132B" fill-opacity="0.88"/>
+  <path d="M0 658C248 612 455 648 686 622C908 597 1088 565 1324 590C1445 603 1520 631 1584 656V720H0V658Z" fill="#020617" fill-opacity="0.95"/>
+  <path d="M0 598C340 543 683 581 1026 552C1228 535 1418 522 1584 564" stroke="#0EA5FF" stroke-opacity="0.46" stroke-width="3"/>
+
+  <g opacity="0.82" filter="url(#neon)">
+    <ellipse cx="387" cy="310" rx="245" ry="82" stroke="#00D4FF" stroke-opacity="0.75" stroke-width="3" transform="rotate(-15 387 310)"/>
+    <ellipse cx="378" cy="320" rx="260" ry="92" stroke="#2563EB" stroke-opacity="0.55" stroke-width="3" transform="rotate(18 378 320)"/>
+    <ellipse cx="340" cy="347" rx="290" ry="88" stroke="#7C4DFF" stroke-opacity="0.32" stroke-width="3" transform="rotate(10 340 347)"/>
   </g>
 
-  <g transform="translate(96 286)">
-    <rect x="0" y="0" width="382" height="54" rx="18" fill="#000000" fill-opacity="0.25" stroke="#00D4FF" stroke-opacity="0.28"/>
-    <text x="26" y="34" fill="#DFFBFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Small Steps. Atomic Impact.</text>
+  <g transform="translate(125 125)" filter="url(#softShadow)">
+    <ellipse cx="250" cy="505" rx="180" ry="32" fill="#00D4FF" fill-opacity="0.18" filter="url(#neon)"/>
+    <path d="M145 120C155 53 204 10 260 10C317 10 361 56 372 120L390 288C399 374 346 445 260 445C174 445 122 374 130 288L145 120Z" fill="#071837" stroke="#123D7A" stroke-width="4"/>
+    <path d="M168 127C175 74 213 39 260 39C307 39 344 74 352 127L365 280C371 341 331 390 260 390C189 390 149 341 155 280L168 127Z" fill="#061023"/>
+    <path d="M145 120C155 53 204 10 260 10C317 10 361 56 372 120C312 79 204 79 145 120Z" fill="#0A2148"/>
+    <path d="M259 14V88" stroke="#2B5EA8" stroke-opacity="0.85" stroke-width="3"/>
+    <circle cx="218" cy="205" r="38" fill="#F8FEFF" filter="url(#neon)"/>
+    <circle cx="305" cy="205" r="38" fill="#F8FEFF" filter="url(#neon)"/>
+    <path d="M132 277C78 270 43 304 35 351C30 386 52 410 85 403C119 397 135 355 150 321L132 277Z" fill="#071837" stroke="#164B8E" stroke-width="4"/>
+    <path d="M63 313C51 281 73 257 92 285L109 318" stroke="#172C57" stroke-width="18" stroke-linecap="round"/>
+    <path d="M101 300C92 263 121 251 135 285L149 318" stroke="#172C57" stroke-width="18" stroke-linecap="round"/>
+    <path d="M140 300C133 266 163 263 171 296L180 328" stroke="#172C57" stroke-width="18" stroke-linecap="round"/>
+    <path d="M177 319C195 294 222 311 206 342L186 381" stroke="#172C57" stroke-width="18" stroke-linecap="round"/>
+    <path d="M385 286C442 312 457 391 416 427C391 449 352 438 349 403L340 319L385 286Z" fill="#071837" stroke="#164B8E" stroke-width="4"/>
+    <g transform="translate(193 306) scale(.55)" filter="url(#neon)">
+      <ellipse cx="122" cy="94" rx="105" ry="34" stroke="url(#atomGrad)" stroke-width="9" transform="rotate(-25 122 94)"/>
+      <ellipse cx="122" cy="94" rx="105" ry="34" stroke="url(#atomGrad)" stroke-width="9" transform="rotate(25 122 94)" opacity=".86"/>
+      <ellipse cx="122" cy="94" rx="105" ry="34" stroke="url(#atomGrad)" stroke-width="9" transform="rotate(90 122 94)" opacity=".75"/>
+      <circle cx="122" cy="94" r="22" fill="#00D4FF"/>
+      <circle cx="39" cy="53" r="12" fill="#A855F7"/>
+      <circle cx="196" cy="102" r="8" fill="#5EEBFF"/>
+      <circle cx="77" cy="151" r="9" fill="#38BDF8"/>
+    </g>
+    <text x="160" y="444" fill="#FFFFFF" font-family="Montserrat, Inter, Arial, sans-serif" font-size="42" font-weight="900" letter-spacing="1">ATOMIC</text>
+    <text x="177" y="482" fill="#E0F2FE" font-family="Montserrat, Inter, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="4">PROGRAMMER</text>
   </g>
 
-  <g transform="translate(704 92)">
-    <text x="0" y="0" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="5">THE ATOMIC PROGRAMMER</text>
-    <text x="0" y="68" fill="url(#titleGrad)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="900" letter-spacing="-1.5">Hiram M. Lugo</text>
-    <text x="0" y="116" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Full-Stack Software Engineer · AI Builder · Founder</text>
-    <text x="0" y="158" fill="#AFC6FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">Building atomic learning systems, AI products, and production-ready web platforms.</text>
+  <g transform="translate(780 148)">
+    <text x="210" y="34" fill="#F8FAFC" font-family="Montserrat, Inter, Arial, sans-serif" font-size="38" font-weight="900" letter-spacing="26" filter="url(#textGlow)">WELCOME</text>
+    <text x="290" y="91" fill="#FFFFFF" font-family="Montserrat, Inter, Arial, sans-serif" font-size="38" font-weight="900" letter-spacing="3">TO THE</text>
+    <text x="0" y="210" fill="#FFFFFF" font-family="Montserrat, Inter, Arial, sans-serif" font-size="126" font-weight="900" letter-spacing="-5" filter="url(#textGlow)">FUTURE</text>
+    <text x="20" y="305" fill="#FFFFFF" font-family="Montserrat, Inter, Arial, sans-serif" font-size="62" font-weight="900">OF</text>
+    <text x="158" y="305" fill="url(#learningGrad)" font-family="Montserrat, Inter, Arial, sans-serif" font-size="86" font-weight="900" letter-spacing="-2" filter="url(#neon)">LEARNING</text>
+    <text x="132" y="385" fill="#F8FAFC" font-family="Montserrat, Inter, Arial, sans-serif" font-size="34" font-weight="800">Code. <tspan fill="#22D3EE">Learn.</tspan> <tspan fill="#A855F7">Build the Future.</tspan></text>
   </g>
 
-  <g transform="translate(704 292)">
-    <rect x="0" y="0" width="760" height="58" rx="18" fill="#000000" fill-opacity="0.24" stroke="#00D4FF" stroke-opacity="0.25"/>
-    <text x="28" y="36" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">founder@theatomicprogrammer.com</text>
-    <circle cx="355" cy="29" r="4" fill="#00D4FF" opacity="0.8"/>
-    <text x="382" y="36" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">787-833-3094</text>
-    <circle cx="540" cy="29" r="4" fill="#7C4DFF" opacity="0.65"/>
-    <text x="566" y="36" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">GearHiram1397</text>
+  <g transform="translate(336 618)">
+    <rect x="0" y="0" width="950" height="74" rx="37" fill="#020617" fill-opacity="0.72" stroke="#00D4FF" stroke-width="2"/>
+    <text x="72" y="45" fill="#FFFFFF" font-family="Montserrat, Inter, Arial, sans-serif" font-size="24" font-weight="900">HIRAM M. LUGO</text>
+    <text x="76" y="64" fill="#22D3EE" font-family="Montserrat, Inter, Arial, sans-serif" font-size="13" font-weight="900" letter-spacing="3">FOUNDER</text>
+    <path d="M390 18V56" stroke="#E0F2FE" stroke-opacity="0.38"/>
+    <text x="455" y="45" fill="#F8FAFC" font-family="Montserrat, Inter, Arial, sans-serif" font-size="18" font-weight="700">founder@theatomicprogrammer.com</text>
+    <path d="M780 18V56" stroke="#E0F2FE" stroke-opacity="0.38"/>
+    <text x="825" y="45" fill="#F8FAFC" font-family="Montserrat, Inter, Arial, sans-serif" font-size="18" font-weight="700">787-833-3094</text>
+    <circle cx="40" cy="37" r="21" stroke="#00D4FF" stroke-width="3"/>
+    <circle cx="40" cy="31" r="7" fill="#E0F2FE"/>
+    <path d="M26 50C30 42 50 42 54 50" stroke="#E0F2FE" stroke-width="5" stroke-linecap="round"/>
   </g>
-
-  <path d="M704 246H1464" stroke="#00D4FF" stroke-opacity="0.32"/>
-  <path d="M704 250H1260" stroke="#7C4DFF" stroke-opacity="0.18"/>
-  <rect x="0.5" y="0.5" width="1583" height="395" rx="27.5" stroke="#00D4FF" stroke-opacity="0.18"/>
 </svg>
