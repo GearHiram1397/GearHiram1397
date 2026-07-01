@@ -5,20 +5,23 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3A63F0,100:7c3aed&height=6&section=header&reversal=false" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:60A5FA,100:7c3aed&height=6&section=header&reversal=false" width="100%" />
 </div>
 
 <div align="center">
-  <img src="./assets/atom-wordmark.png" width="220" alt="The Atomic Programmer" />
+  <img src="./assets/atom-wordmark.png" width="180" alt="The Atomic Programmer" />
+
+  <h1>Hi, I'm Hiram M. Lugo Rodríguez 👋</h1>
+  <h3>Full-Stack Software Engineer &nbsp;·&nbsp; <em>I AM The Atomic Programmer</em> ⚛️</h3>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=3A63F0&center=true&vCenter=true&width=760&lines=Full+Stack+Software+Engineer+%E2%9A%9B%EF%B8%8F;Founder+of+The+Atomic+Programmer+%F0%9F%9A%80;I+Build+Products%2C+Not+Just+Repos+%F0%9F%9B%B0%EF%B8%8F;Web3+%26+Blockchain+Explorer+%F0%9F%94%97;AI-Native+%26+Agentic+Engineer+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=760&lines=Full+Stack+Software+Engineer+%E2%9A%9B%EF%B8%8F;Founder+of+The+Atomic+Programmer+%F0%9F%9A%80;I+Build+Products%2C+Not+Just+Repos+%F0%9F%9B%B0%EF%B8%8F;Web3+%26+Blockchain+Explorer+%F0%9F%94%97;AI-Native+%26+Agentic+Engineer+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=GearHiram1397&color=3A63F0&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=GearHiram1397&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 [![Twitter Follow](https://img.shields.io/twitter/follow/HiramMoisesLugo?logo=twitter&style=for-the-badge&color=60a5fa&labelColor=0d1117)](https://www.twitter.com/HiramMoisesLugo)
 [![GitHub Followers](https://img.shields.io/github/followers/GearHiram1397?logo=github&style=for-the-badge&color=a78bfa&labelColor=0d1117)](https://www.github.com/GearHiram1397)
 
@@ -62,9 +65,9 @@
 
 <img src="./assets/star-divider.svg" width="100%" />
 
-## 🛠️ How I Build The Atomic Programmer
+## 🛠️ How I Build
 
-> A real, in-production system — not a tutorial project.
+> From idea to production — the kind of end-to-end systems I architect and ship. The Atomic Programmer platform below is one I built solo, top to bottom.
 
 ```mermaid
 flowchart LR
@@ -235,16 +238,16 @@ flowchart LR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GearHiram1397&show_icons=true&hide_border=true&count_private=true&title_color=3A63F0&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GearHiram1397&layout=compact&hide_border=true&langs_count=8&title_color=3A63F0&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GearHiram1397&show_icons=true&hide_border=true&count_private=true&title_color=60A5FA&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GearHiram1397&layout=compact&hide_border=true&langs_count=8&title_color=60A5FA&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=GearHiram1397&stroke=c9d1d9&background=0d1117&ring=3A63F0&fire=7c3aed&currStreakNum=ffffff&currStreakLabel=3A63F0&sideNums=c9d1d9&sideLabels=a78bfa&dates=8b949e&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=GearHiram1397&stroke=c9d1d9&background=0d1117&ring=60A5FA&fire=7c3aed&currStreakNum=ffffff&currStreakLabel=60A5FA&sideNums=c9d1d9&sideLabels=a78bfa&dates=8b949e&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=GearHiram1397&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GearHiram1397&bg_color=0d1117&color=c9d1d9&line=3A63F0&point=a78bfa&area_color=0d1117&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GearHiram1397&bg_color=0d1117&color=c9d1d9&line=60A5FA&point=a78bfa&area_color=0d1117&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
 
