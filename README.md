@@ -1,23 +1,10 @@
 <div align="center">
-  <a href="http://theatomicprogrammer.com">
-    <img src="./assets/atomic-banner.png" width="100%" alt="Hiram M. Lugo — The Atomic Programmer" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:60A5FA,100:7c3aed&height=6&section=header&reversal=false" width="100%" />
-</div>
-
-<div align="center">
-  <img src="./assets/atom-wordmark.png" width="180" alt="The Atomic Programmer" />
-
-  <h1>Hi, I'm Hiram M. Lugo Rodríguez 👋</h1>
-  <h3>Full-Stack Software Engineer &nbsp;·&nbsp; <em>I AM The Atomic Programmer</em> ⚛️</h3>
+<img src="./assets/galaxy-header.svg" width="100%" alt="Hiram M. Lugo — The Atomic Programmer" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=760&lines=Full+Stack+Software+Engineer+%E2%9A%9B%EF%B8%8F;Founder+of+The+Atomic+Programmer+%F0%9F%9A%80;I+Build+Products%2C+Not+Just+Repos+%F0%9F%9B%B0%EF%B8%8F;Web3+%26+Blockchain+Explorer+%F0%9F%94%97;AI-Native+%26+Agentic+Engineer+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=720&lines=Full+Stack+Software+Engineer+%E2%9A%9B%EF%B8%8F;Founder+of+The+Atomic+Programmer+%F0%9F%9A%80;Web3+%26+Blockchain+Explorer+%F0%9F%94%97;AI+%26+Emerging+Tech+Enthusiast+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
@@ -57,29 +44,11 @@
 
 ## 📡 Currently Transmitting
 
-- ⚛️ Building **[The Atomic Programmer](http://theatomicprogrammer.com)** — a full learning platform: in-browser IDE, 3D games, AI tutor "Ask Atom," Stripe billing, gamification, and a React Native app
-- 🏥 Building **MiPortalClinico** — HIPAA-compliant, multi-tenant healthcare platform (monorepo)
-- 🚛 Building **NuvemsFleet** — fleet & equipment management with an Expo mobile app (App Store + Google Play)
+- 🏥 Building **MiPortalClinico** — HIPAA-compliant healthcare management platform (multi-tenant, monorepo)
+- 🚛 Building **NuvemsFleet** — fleet & equipment management platform with mobile app (Expo → App Store + Google Play)
 - 🤖 Shipping **AI-powered WhatsApp agents** to automate service intake and document workflows
+- ⚛️ Growing **[The Atomic Programmer](http://theatomicprogrammer.com)** — the future of learning
 - 🔗 Exploring **Web3, Solidity, smart contracts & decentralized apps**
-
-<img src="./assets/star-divider.svg" width="100%" />
-
-## 🛠️ How I Build
-
-> From idea to production — the kind of end-to-end systems I architect and ship. The Atomic Programmer platform below is one I built solo, top to bottom.
-
-```mermaid
-flowchart LR
-    A["React + Vite<br/>Tailwind · Framer Motion"] --> B["In-Browser IDE<br/>Monaco · CodeMirror · Sandpack"]
-    A --> C["3D Games<br/>Three.js · R3F · drei"]
-    A --> G["React Native<br/>Expo App"]
-    A --> D["Node · Express API<br/>Prisma · PostgreSQL"]
-    D --> E["Realtime + Payments<br/>Socket.io · Stripe"]
-    D --> F["Infra<br/>Railway · Cloudflare · Redis · PM2"]
-    D --> H["AI Tutor<br/>Claude · Azure OpenAI"]
-    A -.->|Observability| I["Sentry · PostHog · Lighthouse"]
-```
 
 <img src="./assets/star-divider.svg" width="100%" />
 
@@ -89,9 +58,9 @@ flowchart LR
 
 | Mission | Description | Stack |
 |:--|:--|:--|
-| [⚛️ The Atomic Programmer](http://theatomicprogrammer.com) | Full learning platform — IDE, 3D games, AI tutor, mobile app | React · Node · Prisma · Three.js · Stripe |
+| [⚛️ The Atomic Programmer](http://theatomicprogrammer.com) | The future of learning — atomic, powerful, unstoppable | React · Next.js · TypeScript |
 | [🏥 MiPortalClinico](https://nuvems.com) | HIPAA-compliant healthcare management | Next.js · Prisma · Azure |
-| [🚛 NuvemsFleet](https://nuvems.com) | Fleet & equipment management + Expo mobile app | Expo · Node.js · Azure |
+| [🚛 NuvemsFleet](https://nuvems.com) | Fleet & equipment management + mobile app | Expo · Node.js · Azure |
 | [💼 The One Gig](https://onegighq.com/) | Connecting talent with opportunity in the gig economy | Full Stack |
 
 </div>
@@ -102,10 +71,9 @@ flowchart LR
 
 <div align="center">
 
-![Claude](https://img.shields.io/badge/Claude-cc785c?style=for-the-badge&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-d97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-cc785c?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-6e40c9?style=for-the-badge&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -120,117 +88,33 @@ flowchart LR
 ## 🛸 Tech Arsenal
 
 ### 🎨 Frontend
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-</div>
-
-### 🧊 3D · Creative · In-Browser IDE
-<div align="center">
-
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Monaco Editor](https://img.shields.io/badge/Monaco_Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![CodeMirror](https://img.shields.io/badge/CodeMirror-D30707?style=for-the-badge&logo=codemirror&logoColor=white)
-![Sandpack](https://img.shields.io/badge/Sandpack-151515?style=for-the-badge&logo=codesandbox&logoColor=white)
-
-</div>
-
-### 📱 Mobile
-<div align="center">
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-</div>
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>&nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript" /></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" /></a>&nbsp;<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" /></a>&nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React" /></a>&nbsp;<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" title="Next.js" /></a>&nbsp;<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite" /></a>&nbsp;<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" /></a>&nbsp;<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="SASS" title="SASS" /></a>&nbsp;<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap" /></a>&nbsp;<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" title="Material UI" /></a>&nbsp;<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" title="Redux" /></a>&nbsp;<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" title="GraphQL" /></a>&nbsp;<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="jQuery" title="jQuery" /></a></p>
 
 ### ⚙️ Backend & Languages
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-</div>
+<p align="left"><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" title="Node.js" /></a>&nbsp;<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express.js" title="Express.js" /></a>&nbsp;<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" /></a>&nbsp;<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP" /></a>&nbsp;<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" title="Laravel" /></a>&nbsp;<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#" /></a>&nbsp;<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java" /></a></p>
 
 ### 🗄️ Databases
-<div align="center">
+<p align="left"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB" /></a>&nbsp;<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /></a>&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL" /></a>&nbsp;<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase" /></a>&nbsp;<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" title="Oracle" /></a>&nbsp;<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" height="36" alt="Redis" title="Redis" /></a></p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-</div>
-
-### ☁️ Cloud · DevOps · Infra
-<div align="center">
-
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-</div>
-
-### 🧪 Testing · Quality · Observability
-<div align="center">
-
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![PostHog](https://img.shields.io/badge/PostHog-1D4AFF?style=for-the-badge&logo=posthog&logoColor=white)
-
-</div>
+### ☁️ Cloud & DevOps
+<p align="left"><a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Azure" title="Microsoft Azure" /></a>&nbsp;<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" title="AWS" /></a>&nbsp;<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud" /></a>&nbsp;<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker" /></a>&nbsp;<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terraform-colored.svg" width="36" height="36" alt="Terraform" title="Terraform" /></a>&nbsp;<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" title="Heroku" /></a></p>
 
 ### 🤖 Automation & RPA
-<div align="center">
+
+<div>
 
 ![Robocorp](https://img.shields.io/badge/Robocorp-00B4A0?style=for-the-badge&logo=robocorp&logoColor=white)
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
 ![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-FF7900?style=for-the-badge&logoColor=white)
 ![Camunda BPM](https://img.shields.io/badge/Camunda_BPM-FC5D0D?style=for-the-badge&logo=camunda&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
 
 ### 🧰 Tools & Design
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+<p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" /></a>&nbsp;<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code" /></a>&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" /></a>&nbsp;<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" title="Sketch" /></a></p>
 
 <img src="./assets/star-divider.svg" width="100%" />
 
@@ -238,16 +122,9 @@ flowchart LR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GearHiram1397&show_icons=true&hide_border=true&count_private=true&title_color=60A5FA&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GearHiram1397&layout=compact&hide_border=true&langs_count=8&title_color=60A5FA&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=GearHiram1397&stroke=c9d1d9&background=0d1117&ring=60a5fa&fire=7c3aed&currStreakNum=ffffff&currStreakLabel=60a5fa&sideNums=c9d1d9&sideLabels=a78bfa&dates=8b949e&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=GearHiram1397&stroke=c9d1d9&background=0d1117&ring=60A5FA&fire=7c3aed&currStreakNum=ffffff&currStreakLabel=60A5FA&sideNums=c9d1d9&sideLabels=a78bfa&dates=8b949e&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=GearHiram1397&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GearHiram1397&bg_color=0d1117&color=c9d1d9&line=60A5FA&point=a78bfa&area_color=0d1117&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GearHiram1397&bg_color=0d1117&color=c9d1d9&line=60a5fa&point=a78bfa&area_color=0d1117&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
 
@@ -272,7 +149,6 @@ flowchart LR
 - 🏖️ Born in Puerto Rico 🇵🇷, coding from Pflugerville, Texas 🤠
 - ⚛️ Named the brand "Atomic" because every big breakthrough starts with the smallest, most powerful particle
 - 🤖 Built AI agents that automate real healthcare and fleet workflows in production
-- 🛰️ Shipped an in-browser IDE, 3D games, and a mobile app under one brand
 - ☕ Runs on coffee, curiosity, and clean code
 - 🤝 Believes in teaching what you learn — the atomic way
 
@@ -280,28 +156,37 @@ flowchart LR
 
 ## 🌌 Connect With Me
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/hiram-lugo-rodriguez-34539597/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.github.com/GearHiram1397" target="_blank"><img src="https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.twitter.com/HiramMoisesLugo" target="_blank"><img src="https://img.shields.io/badge/Twitter%2FX-1d9bf0?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a>
-<a href="http://www.instagram.com/gearhiram1397/" target="_blank"><img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://www.dev.to/gearhiram1397" target="_blank"><img src="https://img.shields.io/badge/Dev.to-3b49df?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
-<a href="http://www.medium.com/@hiram1397" target="_blank"><img src="https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-
-</div>
+<p align="left">
+<a href="https://www.linkedin.com/in/hiram-lugo-rodriguez-34539597/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.github.com/GearHiram1397" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.twitter.com/HiramMoisesLugo" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Twitter%2FX-1d9bf0?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+</a>
+<a href="http://www.instagram.com/gearhiram1397/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.dev.to/gearhiram1397" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Dev.to-3b49df?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+</a>
+<a href="http://www.medium.com/@hiram1397" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+<a href="https://www.facebook.com/hiram.moiseslugo/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+</p>
 
 <img src="./assets/star-divider.svg" width="100%" />
 
 ## ☕ Support The Mission
 
-<div align="center">
-
 *Enjoying my content or projects? Help fuel the next atomic build!*
 
 <a href="https://www.buymeacoffee.com/hiram1397n"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" /></a>
-
-</div>
 
 <div align="center">
 <img src="./assets/galaxy-footer.svg" width="100%" alt="The Atomic Programmer" />
